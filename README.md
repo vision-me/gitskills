@@ -1,10 +1,10 @@
 # gitskills
-pull code from gitHub
+pull code from gitHub 
 
 Creating a new branch is quick.
 
 --feature1.
-    --Creating a new branch is quick and simple.
+    --Creating a new branch is quick & simple.
 
 Delete branch dev.
 
@@ -13,3 +13,5 @@ Delete branch dev.
 
 --bug branch
     --储藏当强工作现场，等修复bug分支上的bug后恢复现场继续工作
+
+--找回被删除的dev
