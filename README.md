@@ -13,3 +13,6 @@ Delete branch dev.
 
 --bug branch
     --储藏当强工作现场，等修复bug分支上的bug后恢复现场继续工作
+
+
+--git config --global color.ui true
