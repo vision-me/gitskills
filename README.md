@@ -14,4 +14,5 @@ Delete branch dev.
 --bug branch
     --储藏当强工作现场，等修复bug分支上的bug后恢复现场继续工作
 
---找回被删除的dev
+--找回被删除的de
+--创建了冲突的部分
